@@ -1,0 +1,435 @@
+# Dependency directories
+/node_modules
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+/build
+
+# IDE and editor files
+/.vscode
+/.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.user
+*.suo
+*.cache
+*.project
+*.DS_Store
+*.log
+.DS_Store
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# ESLint
+.eslintcache
+
+# Jest
+/coverage
+
+# Output of 'npm run build'
+/build
+
+# dotenv
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Yarn
+yarn-error.log
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Windows directories
+$RECYCLE.BIN/
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# .vscode extensions
+.vscode/extensions/
+
+# .idea directories
+.idea/
+
+# Node.js debug log
+*.map
+
+# Compiled binary addons (like Node.js bindings)
+/build/Release
+/napi-v3/
+
+# Dependency directories
+/pnpm-debug.log*
+
+# dotenv environment variables file
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# yarn v2
+.pnp.*
+.pnp.local.*
+
+# Debug log from npm
+npm-debug.log*
+
+# Cache directory for npm
+.npm
+
+# Cache directory for pnpm
+pnpm-lock.yaml
+pnpm-store/
+
+# Yarn v2
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+!.pnp.*
+.pnp.*
+yarn-error.log*
+
+# parcel-bundler
+.cache
+.parcel-cache
+
+# next.js
+.next/
+out/
+
+# nuxt.js
+.nuxt/
+dist/
+
+# vuepress
+.vuepress/dist
+
+# Serverless directories
+.serverless/
+
+# TernJS port file
+.tern-port
+
+# Elm Package Manager directory
+/elm-stuff
+
+# Parcel bundler cache
+.cache/
+
+# Visual Studio Code directories
+.vscode/
+
+# ESLint cache
+.eslintcache
+
+# Local .env files
+.env.local
+.env.*.local
+
+# Log files
+log.txt
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node.js process files
+*-debug.log
+*.pid
+*.seed
+
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Bower dependency directory (https://bower.io/)
+bower_components/
+
+# node-waf configuration
+.lock-wscript
+
+# Yarn v1
+.yarn-integrity
+
+# Parcel
+.parcel-cache
+
+# Yarn 2
+.pnp.*
+
+# ESLint
+.eslintcache
+
+# nyc test coverage
+.nyc_output/
+
+# jest test coverage
+coverage/
+
+# Unit test / coverage reports
+reports/
+
+# TypeScript
+tsconfig.tsbuildinfo
+
+# Visual Studio Code directories
+.vscode/
+
+# IDEA
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Node.js generated files
+node_modules/
+jspm_packages/
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Windows directories
+$RECYCLE.BIN/
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# .vscode extensions
+.vscode/extensions/
+
+# .idea directories
+.idea/
+
+# .idea/.name
+.idea/.name
+
+# .idea/workspace.xml
+.idea/workspace.xml
+
+# .idea/tasks.xml
+.idea/tasks.xml
+
+# .idea/.gitignore
+.idea/.gitignore
+
+# .idea/dictionaries
+.idea/dictionaries/
+
+# .idea/thesauri
+.idea/thesauri/
+
+# .idea/gradle.xml
+.idea/gradle.xml
+
+# .idea/libraries
+.idea/libraries/
+
+# .idea/caches
+.idea/caches/
+
+# .idea/modules.xml
+.idea/modules.xml
+
+# .idea/namespaces.xml
+.idea/namespaces/
+
+# .idea/vcs.xml
+.idea/vcs.xml
+
+# .idea/version.txt
+.idea/version.txt
+
+# .idea/compiler.xml
+.idea/compiler.xml
+
+# .idea/.ideaVersion
+.idea/.ideaVersion
+
+# .idea/.name
+.idea/.name
+
+# .idea/vcs.config.xml
+.idea/vcs.config.xml
+
+# .idea/datasources.xml
+.idea/datasources.xml
+
+# .idea/dataSources.ids
+.idea/dataSources.ids
+
+# .idea/dataSources.local.xml
+.idea/dataSources.local.xml
+
+# .idea/sqlDataSources.xml
+.idea/sqlDataSources.xml
+
+# .idea/dynamic.xml
+.idea/dynamic.xml
+
+# .idea/uiDesigner.xml
+.idea/uiDesigner.xml
+
+# .idea/inspect.xml
+.idea/inspect.xml
+
+# .idea/webResources.xml
+.idea/webResources.xml
+
+# .idea/gradle.settings.xml
+.idea/gradle.settings.xml
+
+# .idea/misc.xml
+.idea/misc.xml
+
+# .idea/jsLibraryMappings.xml
+.idea/jsLibraryMappings.xml
+
+# .idea/gwt.xml
+.idea/gwt.xml
+
+# .idea/hosted.xml
+.idea/hosted.xml
+
+# .idea/runConfigurations.xml
+.idea/runConfigurations.xml
+
+# .idea/deployment.xml
+.idea/deployment.xml
+
+# .idea/jsLinters.xml
+.idea/jsLinters.xml
+
+# .idea/workspaceTasks.xml
+.idea/workspaceTasks.xml
+
+# .idea/shelf/
+.idea/shelf/
+
+# .idea/libraries
+.idea/libraries/
+
+# .idea_modules/
+.idea_modules/
+
+# metadata
+.idea/workspace.xml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.B
+
+# macos
+*/.DS_Store
